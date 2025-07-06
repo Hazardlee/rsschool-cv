@@ -36,7 +36,7 @@ function greet() {
 ---
 
 ### **Courses**
-1. HTML and CSS courses on [codewars](https://code-basics.com/ru) (in progress)
+1. HTML and CSS courses on [code-basics.com](https://code-basics.com/ru) (in progress)
 2. JavaScript basics on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 3. RS Schools Course «JavaScript/Front-end. Stage 0» on [https://rs.school/](https://rs.school/) (in progress)
 
