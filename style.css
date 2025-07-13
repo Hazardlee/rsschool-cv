@@ -1,9 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  border: 1px solid red;
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
-} 
-  
-header {
-      background: #333;
-      color: #fff;
-      text-align: center;
-    }
+}
