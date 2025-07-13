@@ -3,7 +3,6 @@
 }
 
 .header {
-  border: 1px solid rgb(44, 3, 81);
   background: #333;
   color: #fff;
   text-align: center;
@@ -17,10 +16,13 @@ body {
   min-height: 100vh;
   margin: 0; 
   padding: 0;
+  font-size: 24px;
 }
 
 .main {
-  border: 1px solid red;
+  border: 1px solid rgb(79, 78, 78);
+  display: flex;
+  flex: 1;
 }
 
 .avatar {
@@ -35,9 +37,36 @@ body {
   justify-content: flex-end;
   align-items: center;
   list-style: none;
+  font-size: 17px
 }
 
 .nav-link {
   padding: 0 20px;
   line-height: normal;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.left-column {
+  flex: 1;
+  padding: 20px;
+  background: #f5f5f5;
+  color:#333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right-column {
+  flex: 3;
+  padding: 20px;
+}
+
+.contacts {
+  background-color:#b7b0b0;
+  border: 1px solid rgb(68, 67, 67);
+  border-radius: 15px 15px 15px 15px;;
+  padding: 10px 50px
 }
