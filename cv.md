@@ -46,5 +46,4 @@ function greet() {
 Russian: Native  
 English: Upper-intermediate (B2) 
 
-![epam](/rsschool-cv/img/epam_eng_test.png)    
-
+![epam](/rsschool-cv/assets/img/epam_eng_test.png)
