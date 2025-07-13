@@ -79,3 +79,12 @@ html {
 .lang-style {
   text-align: left;
 }
+
+.objective-title {
+  text-align: center;
+  text-transform: uppercase
+}
+
+.cursive {
+  font-style: italic;
+}
