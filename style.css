@@ -43,6 +43,7 @@ body {
 .nav-link {
   padding: 0 20px;
   line-height: normal;
+  text-decoration: none;
 }
 
 html {
@@ -87,4 +88,8 @@ html {
 
 .cursive {
   font-style: italic;
+}
+
+.text-center {
+  text-align: end;
 }
