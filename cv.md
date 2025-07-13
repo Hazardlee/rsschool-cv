@@ -19,7 +19,7 @@ I’m motivated to grow in this field, gain practical skills, and become a profe
 
 ### **Skills**
 
-*	**Technical Skills**: Basic HTML & CSS, beginner JavaScript, Git (basic commands), familiar with SQL.
+*	**Technical Skills**:   , familiar with SQL.
 *	**Soft Skills**: Client communication, basic analysis, time management
 *	**Tools**: Visual Studio Code, GitHub
 

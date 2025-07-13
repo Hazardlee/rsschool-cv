@@ -93,3 +93,11 @@ html {
 .text-center {
   text-align: end;
 }
+
+.cv-link {
+  text-decoration: none;
+}
+
+.code-back {
+  background-color: bisque;
+}
