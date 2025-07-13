@@ -101,3 +101,17 @@ html {
 .code-back {
   background-color: bisque;
 }
+
+.footer {
+  background: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+}
+
+.footer-img {
+  height: 100px;
+  width: 150px;
+}
