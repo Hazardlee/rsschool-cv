@@ -3,7 +3,7 @@
 }
 
 .header {
-  border: 1px solid red;
+  border: 1px solid rgb(44, 3, 81);
   background: #333;
   color: #fff;
   text-align: center;
@@ -11,4 +11,33 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  margin: 0; 
+  padding: 0;
+}
+
+.main {
+  border: 1px solid red;
+}
+
+.avatar {
+   width: 120px;
+  height: 120px;
+  border-radius: 50%; 
+  object-fit: cover;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: normal;
 }
