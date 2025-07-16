@@ -122,6 +122,11 @@ html {
 .footer-img {
   height: 100px;
   width: 150px;
+  transition: 0.2s;
+}
+
+.footer-img:hover {
+  transform: scale(1.1);
 }
 
 .container {
