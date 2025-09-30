@@ -23,6 +23,7 @@ body {
   border: 1px solid rgb(79, 78, 78);
   display: flex;
   flex: 1;
+  flex-wrap: wrap;
 }
 
 .avatar {
